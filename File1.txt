@@ -5,3 +5,5 @@ I am doing these changes in remote repository
 ==================================================
 I am doing the change to these file using the developer 1 machine and from that machine
 again I am pushing the code to remote respository
+=================================================================
+Now I am writing these line frome the second developer machine
