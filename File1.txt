@@ -2,3 +2,6 @@ Hi hello I am in My desktop right now
 ==============================
 At Present I am in Remote repository 
 I am doing these changes in remote repository
+==================================================
+I am doing the change to these file using the developer 1 machine and from that machine
+again I am pushing the code to remote respository
